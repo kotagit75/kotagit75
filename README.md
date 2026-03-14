@@ -3,7 +3,7 @@ Hello, I'm kotagit75.🥳
 
 - 🌟 I am currently working on the development of [bitclock](https://github.com/kotagit75/bitclock).
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: Listening to music
+- ⚡ Fun fact: I love listening to music.
 
 ## GitHub Activity
 <p align="left"> 
