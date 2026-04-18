@@ -1,7 +1,7 @@
 # 👋 Hi there
 Hello, I'm kotagit75.🥳
 
-- 🌟 I am currently working on the development of [BitClock](https://github.com/kotagit75/bitclock).
+- 🌟 I am currently working on the development of [WeatherCoin](https://github.com/kotagit75/WeatherCoin).
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact: I love listening to music.
 
