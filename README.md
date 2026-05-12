@@ -1,5 +1,5 @@
 # 👋 Hi there
-Hello, I'm kotagit75.🥳
+Hello, I'm yuzu_mikan.🥳
 
 - 🌟 I am currently working on the development of [Dawn](https://github.com/kotagit75/Dawn).
 - 🌱 I’m currently learning React.
