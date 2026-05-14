@@ -1,5 +1,5 @@
 # 👋 Hi there
-Hello, I'm yuzu_mikan.🥳
+Hello, I'm yuzu_mikan. I'm a high school student.
 
 - 🌟 I am currently working on the development of [Dawn](https://github.com/kotagit75/Dawn).
 - 🌱 I’m currently learning React.
